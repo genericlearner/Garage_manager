@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1666923438 source:c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\car.cpp
+	"Car.h"
+
+1666872253 c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\car.h
+	<iostream>
+
+1666882806 source:c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\newcar.cpp
+	"NewCar.h"
+
+1666869346 c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\newcar.h
+	<iostream>
+	"Car.h"
+
+1666882819 source:c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\usedcar.cpp
+	"UsedCar.h"
+
+1666868430 c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\usedcar.h
+	<iostream>
+	"NewCar.h"
+
+1666923403 source:c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\date.cpp
+	"Date.h"
+	<iostream>
+
+1666134313 c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\date.h
+	<iostream>
+
+1666872766 source:c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\person.cpp
+	"Person.h"
+
+1666872253 c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\person.h
+	<iostream>
+	"Date.h"
+
+1666872605 source:c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\client.cpp
+	"Client.h"
+
+1666872120 c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\client.h
+	<iostream>
+	"Person.h"
+
+1666872766 source:c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\salesperson.cpp
+	"SalesPerson.h"
+	"Person.h"
+
+1666872353 c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\salesperson.h
+	<iostream>
+	"Person.h"
+
+1666922921 source:c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\test.cpp
+	<iostream>
+	"Client.h"
+	"NewCar.h"
+	"Car.h"
+	"Date.h"
+	"Person.h"
+	"SalesPerson.h"
+	"UsedCar.h"
+	"dataManager.h"
+
+1666872766 source:c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\purchasecontract.cpp
+	"PurchaseContract.h"
+	<iostream>
+
+1666868016 c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\purchasecontract.h
+	<iostream>
+	"Client.h"
+	"SalesPerson.h"
+	"NewCar.h"
+	"UsedCar.h"
+	"Date.h"
+
+1666922512 source:c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\datamanager.cpp
+	"dataManager.h"
+	<iostream>
+
+1666872654 c:\users\lenovo\desktop\uni\coen 244\assignment 3\assignment 3\datamanager.h
+	<iostream>
+	"NewCar.h"
+	"UsedCar.h"
+	"SalesPerson.h"
+	"PurchaseContract.h"
+
